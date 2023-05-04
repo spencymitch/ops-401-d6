@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
-# Script: Ops 401 Class 12 Ops Challenge
+# Script: Ops 401 Class 13 Ops Challenge
 # Author: Spencer Mitchell
-# Date of latest revision: 5/1/23
+# Date of latest revision: 5/3/23
 # Purpose: Refactor our previous code.
 # Resources: In class demo, class repo, and chatgpt. 
 
